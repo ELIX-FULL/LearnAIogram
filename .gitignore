@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.pyc
+
+# Ignore IDE files
+.idea/
+.venv/
+# Ignore .env file
+.env
+main.dart
