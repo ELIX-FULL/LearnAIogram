@@ -6,4 +6,3 @@
 .venv/
 # Ignore .env file
 .env
-main.dart
